@@ -1,0 +1,88 @@
+log4shell
+
+
+==============================
+
+
+RELEASE NOTE
+
+
+Version : 1.0.0.5
+
+Release date : 2012/10/15
+
+
+
+
+Change Log
+
+1 use shell modules.
+
+2 if script run in the backgroup, SCREEN output will close.
+
+3 function [uri_encoder]: replace perl(URI::Escape) to awk
+
+
+
+
+------------------------------
+
+
+Version : 1.0.0.4
+
+Release date : 2012/08/16
+
+
+
+
+Change Log
+
+fix get ip info bug
+
+
+
+
+------------------------------
+
+
+Version : 1.0.0.3
+
+Release date : 2011/05/31
+
+
+
+
+Change Log
+
+change EMAIL Alert with WebAPI method
+
+
+
+
+------------------------------
+
+Version : 1.0.0.2
+
+Release date : 2011/04/13
+
+
+
+
+Change Log
+
+fix some bugs
+
+
+
+------------------------------
+
+
+Version :1.0.0.1
+
+Release date : 2011/02/18
+
+
+
+
+Change Log
+

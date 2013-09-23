@@ -1,0 +1,15 @@
+
+INSTALL :
+
+
+1. make sure you have installed ShellMds.
+    I . get ShellMds from website(https://github.com/spunkmars/ShellMds)
+    II. install it
+
+2. exec  install_log4shell.sh
+
+#/bin/bash  ./install_log4shell.sh
+
+3. make sure  this string "192.168.8.154  sendinfo.test.com" in  file(/etc/hosts)
+
+#echo '192.168.8.154  sendinfo.test.com' >>/etc/hosts

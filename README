@@ -1,0 +1,42 @@
+log4shell
+============
+Log4j implementation for Bash Shell. 
+
+LICENCE AND COPYRIGHT:
+    ProFTPD Admin is released under the BSD License. See the bundled LICENSE file for
+details.
+    SEE: LICENSE
+
+
+RELEASE NOTE:
+
+    SEE: CHANGES
+
+
+INSTALL DOCUMENT / GUIDE:
+
+    SEE: INSTALL
+
+
+CONTACT AUTHOR:
+
+    Author: SpunkMars++
+
+    Site:   http://www.spunkmars.org
+
+    E-mail: spunkmars@gmail.com , spunkmars@spunkmars.org
+
+
+CONTRIBUTING: 
+
+    SEE: CONTRIBUTING
+
+
+PROJECT SITE:
+
+    https://github.com/spunkmars/log4shell
+
+
+REPORT BUG:
+    
+    https://github.com/spunkmars/log4shell
